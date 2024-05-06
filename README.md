@@ -25,6 +25,9 @@ The main code for the application is contained in a single Python script. The sc
 ## 📖 Usage
 To use the application, simply run the Python script and pass the path to an image of a shoe as a command-line argument. The application will display the original image and the edge image, and print the estimated shoe size to the console.
 
+## 🤝 Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## 🌟 Future Work
 Future enhancements to this application could include improving the accuracy of the shoe size estimation, adding support for different shoe types, or adding a graphical user interface.
 
